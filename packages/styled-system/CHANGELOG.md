@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.7.1
+
+### Patch Changes
+
+- [`4943a15c0`](https://github.com/chakra-ui/chakra-ui/commit/4943a15c084fd2e66ab0dbf273233630d006dc5a)
+  [#3306](https://github.com/chakra-ui/chakra-ui/pull/3306) Thanks
+  [@TimKolberger](https://github.com/TimKolberger)! - Fixed an issue where
+  TypeScript did not allow custom breakpoint names in ResponsiveObject
+
 ## 1.7.0
 
 ### Minor Changes
